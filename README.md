@@ -6,8 +6,7 @@ It displays each weapon action’s damage in the weapon item sheet sidebar, abov
 
 Example:
 
-- Melee — 1d4 / P,S
-- Throw — 1d4 / P,S
+![example image](images/example.png)
 
 ## Requirements
 
