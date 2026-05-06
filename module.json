@@ -1,0 +1,34 @@
+{
+  "id": "pf1e-weapon-action-summary",
+  "title": "PF1e Weapon Action Summary",
+  "description": "Displays PF1e weapon action damage in the weapon item sheet sidebar.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "YourNameOrHandle"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system",
+        "compatibility": {
+          "minimum": "13"
+        }
+      }
+    ]
+  },
+  "scripts": [
+    "scripts/weapon-action-summary.js"
+  ],
+  "url": "https://github.com/wazard/pf1e-weapon-action-summary",
+  "manifest": "https://github.com/wazard/pf1e-weapon-action-summary/releases/latest/download/module.json",
+  "download": "https://github.com/wazard/pf1e-weapon-action-summary/releases/latest/download/module.zip",
+  "license": "LICENSE",
+  "readme": "README.md"
+}
